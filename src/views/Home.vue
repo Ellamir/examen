@@ -1,18 +1,34 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <hero/>
+    <login/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import Hero from '@/components/Hero.vue'
+import Login from '@/components/Login.vue'
+
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
+    Hero,
+    Login
   }
 }
+
+
+
+/* mounted() {
+    if (this.$store.state.login) {
+          // ;  
+    var user = true;
+    }            
+    }else{
+      this.$router.push('/login');
+    },
+  
+*/ 
 </script>
