@@ -1,4 +1,4 @@
-# examen
+# Examen Talento Digital
 
 ## Caso “Classicmodels Orders”
 
@@ -27,10 +27,10 @@ El arquitecto, para satisfacer las necesidades del proyecto, ha definido la util
 
 ### Requerimientos a implementar
 El jefe de proyectos, quien lleva un control meticuloso de las actividades del proyecto, le ha solicitado a Usted que realice las siguientes tareas:
-- [] Implementar página de Login de Usuario.
-- [] Implementar página Home con Dashboard.
-- [] Implementar página con Monitor de Ordenes.
-- [] Implementar página con Detalle de Orden
+- [ ] Implementar página de Login de Usuario.
+- [ ] Implementar página Home con Dashboard.
+- [ ] Implementar página con Monitor de Ordenes.
+- [ ] Implementar página con Detalle de Orden
 
 
 # Project setup
